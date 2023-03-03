@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@font-face {
+    font-family: open;
+    src: url(elementos/fontes/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf) format('truetype');
+}
+
+
+body{
+    font-family: open;
+    background-color: black;
+
+}
+
+ul{
+    display: inline-flex;
+    list-style: none;
+    padding: 20px;
+    margin: 0 !important;
+    color: white;
+    font-weight: 400;
+    font-size: 19px;
+    
+}
+
+
+
+.w-50 {
+    width: 34%!important;
+}
